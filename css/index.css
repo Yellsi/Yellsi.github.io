@@ -32,37 +32,6 @@ body {
   grid-column: 1 /-1;
 }
 
-/*
-nav ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: space-evenly;
-  text-align: center;
-}
-
-nav ul li {
-  list-style: none;
-  padding: 1em 0;
-}
-
-nav li a {
-  padding: 0px;
-  color: whitesmoke;
-  font-weight: 600;
-  opacity: 0.6;
-  text-decoration: none;
-  transition: 0.3s;
-}
-
-nav li a.active {
-  background: #08313a;
-  border-radius: 4px;
-}
-
-nav li a:hover {
-  opacity: 1;
-}*/
 .main-pic {
   max-width: 100%;
   max-height: 80%;
