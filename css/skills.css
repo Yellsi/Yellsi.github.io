@@ -16,7 +16,7 @@ body {
 
   display: grid;
   position: relative;
-  height: 100vh;
+  height: 100%;
   grid-template-areas:
     "h h h h h h h h h h h h"
     "c c c c c c c c c c c c"
