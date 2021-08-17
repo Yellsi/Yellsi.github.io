@@ -12,12 +12,9 @@ body {
 }
 
 .container {
-  /*position: relative;
-  min-height: 100%;*/
-
-  display: grid;
   position: relative;
-  height: 100vh;
+  min-height: 100%;
+  display: grid;
   grid-template-areas:
     "h h h h h h h h h h h h"
     "c c c c c c c c c c c c"
