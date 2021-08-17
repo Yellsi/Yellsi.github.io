@@ -13,14 +13,14 @@ body {
 
 .container {
   position: relative;
-  min-height: 100%;
+  min-height: 100vh;
   /*display: grid;
   grid-template-areas:
     "h h h h h h h h h h h h"
     "c c c c c c c c c c c c"
     "f f f f f f f f f f f f";*/
-  /*display: flex;
-  flex-direction: column;*/
+  display: flex;
+  flex-direction: column;
 }
 .navbar {
   grid-area: h;
