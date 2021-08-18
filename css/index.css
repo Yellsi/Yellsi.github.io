@@ -114,7 +114,7 @@ h2 {
     grid-template-areas:
       "h h h h h h h h h h h h"
       "c c c c c c c c c c c c"
-      "c c c c c c c c c c c c"
+      /*"c c c c c c c c c c c c"*/
       "f f f f f f f f f f f f";
   }
   .navbar {
