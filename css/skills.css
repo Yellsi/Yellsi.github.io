@@ -28,6 +28,10 @@ body {
 .navbar {
   grid-area: h;
 }
+nav {
+  line-height: 1.4em;
+  font-size: 1.35em;
+}
 
 nav ul {
   margin: 0;
@@ -104,8 +108,8 @@ h2 {
   margin-top: auto; /* */
 }
 .footer-img {
-  height: 32px;
-  width: 32px;
+  height: 40px;
+  width: 40px;
 }
 #footer ul {
   max-width: 640px;

@@ -14,12 +14,18 @@ body {
   flex-direction: column;
 }
 
-h1 {
+h2 {
   grid-column: 1/-1;
   text-align: center;
   text-align: center;
   margin-top: 20px;
 }
+
+nav {
+  line-height: 1.4em;
+  font-size: 1.35em;
+}
+
 nav ul {
   margin: 0;
   padding: 10;
@@ -64,8 +70,8 @@ p {
   /*height: 2.5rem;*/
 }
 .footer-img {
-  height: 32px;
-  width: 32px;
+  height: 40px;
+  width: 40px;
 }
 #footer ul {
   max-width: 640px;
