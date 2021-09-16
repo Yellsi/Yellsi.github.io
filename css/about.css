@@ -5,11 +5,12 @@ body {
   /*padding: 0;*/
   font-size: 1.3em;
   line-height: 1.6em;
+  min-height: 100vh;
 }
 
 .container {
   position: relative;
-  min-height: 100vh;
+
   display: flex;
   flex-direction: column;
 }
