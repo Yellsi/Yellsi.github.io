@@ -122,9 +122,9 @@ h2 {
   margin: auto 30px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
   body {
-    font-size: 1.7em;
+    font-size: 40px;
   }
 }
 
