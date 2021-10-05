@@ -8,12 +8,12 @@ body {
   padding: 0px;
   font-size: 1.3em;
   line-height: 1.6em;
-  /*height: 100vh;*/
+  min-height: 100vh;
 }
 
 .container {
   position: relative;
-  min-height: 97vh;
+  /*min-height: 97vh;
   /*display: grid;
   /*grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   grid-row: auto;
@@ -59,15 +59,15 @@ nav li a:hover {
   opacity: 1;
 }
 
-.skills {
+/*.skills {
   grid-area: c;
   grid-column: auto;
   grid-row: auto;
   padding: 10px;
   margin: 10px;
   text-align: center;
-  /*padding: 25px;*/
-}
+  /*padding: 25px;* /
+}*/
 
 h2 {
   grid-column: 1/-1;
