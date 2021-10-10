@@ -64,6 +64,11 @@ h2 {
   grid-column: 1/-1;
 }
 
+p {
+  margin: 16px;
+  padding: 16px;
+}
+
 /*FOOTER*/
 .footer {
   grid-column: 1/-1;
@@ -76,8 +81,6 @@ h2 {
   bottom: 0px;
   width: 100%;
   grid-row: -1;
-  /*margin-top: auto;
-  /*height: 2.5rem;*/
 }
 .footer-img {
   height: 50px;
